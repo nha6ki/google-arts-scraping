@@ -1,6 +1,7 @@
 # Google Arts & Culture Image Collection Pipeline
 
-**Developed:** August 2020  
+**Developed:** August 2020
+
 **Related project:** Recommend Art Museum (October 2020)
 
 ## Overview
