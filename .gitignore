@@ -1,0 +1,30 @@
+# Collected artwork images and metadata
+Images/
+Details/
+assets/
+GAC_Dataset/
+all_partner.csv
+
+# Image and data files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local environments
+.env
+.env.*
+.venv/
+venv/
+
+# OS
+.DS_Store
